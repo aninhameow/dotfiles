@@ -1,0 +1,16 @@
+[Added Associations]
+application/json=sublime_text.desktop;
+application/x-shellscript=sublime_text.desktop;kate-4.desktop;
+application/x-zerosize=sublime_text.desktop;
+text/plain=subl-5.desktop;/home/Ana/.local/share/applications/subl-4.desktop;/home/Ana/.local/share/applications/kate-8.desktop;sublime_text.desktop;
+text/x-scss=kate-5.desktop;
+
+[Default Applications]
+application/json=sublime_text.desktop;
+application/x-shellscript=sublime_text.desktop;
+application/x-zerosize=sublime_text.desktop
+text/plain=sublime_text.desktop
+text/txt=subl.desktop
+text/x-scss=kate-5.desktop;
+x-scheme-handler/discord=vesktop.desktop
+x-scheme-handler/freetube=freetube.desktop

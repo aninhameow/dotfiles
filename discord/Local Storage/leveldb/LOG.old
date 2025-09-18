@@ -1,0 +1,6 @@
+2025/09/16-00:13:20.352 16df6 Reusing MANIFEST /home/Ana/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/09/16-00:13:20.361 16df6 Recovering log #4
+2025/09/16-00:13:20.361 16df6 Reusing old log /home/Ana/.config/discord/Local Storage/leveldb/000004.log 
+2025/09/16-00:15:16.987 16e53 Level-0 table #8: started
+2025/09/16-00:15:16.995 16e53 Level-0 table #8: 41259 bytes OK
+2025/09/16-00:15:17.013 16e53 Delete type=0 #4
